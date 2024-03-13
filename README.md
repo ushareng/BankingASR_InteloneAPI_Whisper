@@ -1,1 +1,7 @@
 # Banking-ASR: Enhancing Speech Recognition with Intel oneAPI
+
+In today’s digital age, automatic speech recognition (ASR) has emerged as a pivotal element in voice-driven applications. This project delves into the utilization of pretrained ASR models, particularly focusing on the Whisper-tiny model, for speech recognition using the MINDS14 dataset. Renowned for its ability to reduce size and enhance inference speed, Whisper-tiny is particularly suited for devices with constrained resources. The MINDS14 dataset, replete with diverse language and accent variations, presents a formidable challenge to ASR models in comprehending the intricacies of everyday speech. By amalgamating these two components, this study endeavors to elevate the accuracy of speech recognition and gain insights into both the limitations and potential of pretrained ASR models within practical application scenarios.
+
+This project can provide a valuable starting point for banks to enhance their voice and text-based customer interactions by enabling them to build more accurate and user-friendly conversational AI systems. Improved intent recognition leads to smoother voice interactions for customers. The model can correctly understand what the customer wants, allowing the bank to route them to the appropriate service or provide the information they need.
+
+HuggingFace spaces Demo - https://huggingface.co/spaces/tensorgirl/Banking-ASR
